@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407306067492",
+    "firebase_url": "https://deulag.firebaseio.com",
+    "project_id": "deulag",
+    "storage_bucket": "deulag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407306067492:android:a1645a5234b23fb5fdc2b1",
+        "android_client_info": {
+          "package_name": "site.deulag.deulag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407306067492-1gl82gffpphn9jilmlel5mr709nb535o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4KbskMwgv7mAngNxP1l1Mbl5yKENraY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407306067492-1gl82gffpphn9jilmlel5mr709nb535o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
